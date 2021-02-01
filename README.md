@@ -7,3 +7,6 @@ first my website
 _COMPTIA-N+
 + CCNA +
 - EHE: ETHICALHACKING 
+
++ barcode scan:
+![barcode](india.png)
